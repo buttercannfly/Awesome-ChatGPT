@@ -8,12 +8,9 @@
 
 |  ChatGPT镜像网站   | 
 |  ----  | 
-| [https://chat.moyunav.com/](https://chat.moyunav.com/)
-  | 
-| [https://chat.forchange.cn/](https://chat.forchange.cn/)
-  | 
-| [https://aigcfun.com/](https://aigcfun.com/)
- |
+| [https://chat.moyunav.com/](https://chat.moyunav.com/) | 
+| [https://chat.forchange.cn/](https://chat.forchange.cn/)| 
+| [https://aigcfun.com/](https://aigcfun.com/) |
 | [https://chatgpt.kuaisou.com/](https://chatgpt.kuaisou.com/)
 | [https://www.chatsverse.xyz/](https://www.chatsverse.xyz/) |
 | [https://www.scyu.app/](https://www.scyu.app/) |
