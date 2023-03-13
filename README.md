@@ -18,6 +18,11 @@
 | [https://fastgpt.app/](https://fastgpt.app/) |
 | [https://chatforai.com/](https://chatforai.com/) |
 | [https://chat.zecoba.cn/](https://chat.zecoba.cn/) |
+| [https://desk.im](https://desk.im) |
+| [https://chat.theb.ai](https://chat.theb.ai) |
+| [https://www.aicodehelper.com](https://www.aicodehelper.com) |
+| [https://hotoke.ai](https://hotoke.ai) |
+| [https://ai117.com](https://ai117.com) |
 
 
 ## Awesome Apps 之 ChatGPT垂直资源
@@ -27,8 +32,8 @@
 | [ChatPDF](https://www.futuretools.io/tools/chatpdf)  | 文档处理神器，提取pdf内容 |
 | [BiliGPT](https://b.jimmylv.cn/) | 一键提取音视频内容 |
 | [Code Converter](https://codeverter.vercel.app/) | Java、Python、Vue2、Vue3、React互相转换 |
-| []() |  |
-|  |  |
+<!-- | [ChatPaper]() |  | -->
+<!-- |  |  | -->
 
 ## Awesome Prompt 之 怎样与ChatGPT对话
 
