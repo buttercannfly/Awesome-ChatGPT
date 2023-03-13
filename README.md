@@ -26,8 +26,8 @@
 |  ----  |  ---- | 
 | [ChatPDF](https://www.futuretools.io/tools/chatpdf)  | 文档处理神器，提取pdf内容 |
 | [BiliGPT](https://b.jimmylv.cn/) | 一键提取音视频内容 |
-|  |  |
-|  |  |
+| [Code Converter](https://codeverter.vercel.app/) | Java、Python、Vue2、Vue3、React互相转换 |
+| []() |  |
 |  |  |
 
 ## Awesome Prompt 之 怎样与ChatGPT对话
@@ -60,7 +60,9 @@
 
 ## Awesome Developer Tools 之 ChatGPT开发轮子
 
-to be updated
+| ChatGPT开发轮子 | 功能 |
+| ---- | ---- |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 用nextjs模拟chatgpt界面 |
 
 
 ## Annoucement
